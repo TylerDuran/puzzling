@@ -43,9 +43,4 @@ public class PuzzleJava {
         }
         return passwordLengthSet;
     }
-
-
-
-
-
 }
